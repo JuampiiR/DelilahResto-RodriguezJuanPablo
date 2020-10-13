@@ -38,7 +38,7 @@ Para instalar Xampp dirígete a [la siguiente página](https://www.apachefriends
 ## Empezando 
 - Clona el repositorio
 ```
-https://github.com/CaroSosa/DelilahResto.git
+https://github.com/JuampiiR/DelilahResto-RodriguezJuanPablo
 ```
 
 ## Instalación 
@@ -79,7 +79,7 @@ Encontrarás los posibles endpoints en el documento ``spec.yaml``. Puedes abrirl
 ```
 
 ## Autores
-- **Sosa Ana Carolina** -  *Trabajo completo* [CaroSosa](https://github.com/CaroSosa)
+- **Juan Pablo Rodriguez** -  *Trabajo completo* [JuampiiR](https://github.com/JuampiiR)
 
 
 
